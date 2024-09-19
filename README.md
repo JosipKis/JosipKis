@@ -6,7 +6,7 @@
 
 💬 Ask me about Java ☕
 
-[![Josip's GitHub stats](https://github-readme-stats-josipkis-projects.vercel.app/api?username=JosipKis&theme=aura&include_all_commits=true)](https://github.com/JosipKis/github-readme-stats)
+[![Josip's GitHub stats](https://github-readme-stats-josipkis-projects.vercel.app/api?username=JosipKis&theme=aura&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)]
 <!--
 **JosipKis/JosipKis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
