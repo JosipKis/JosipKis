@@ -2,7 +2,7 @@
 
 🧠 IT Student at Studij Informacijskih Tehnologija at University of Zadar (SIT UniZd)
 
-🔭 I’m currently working on Ticket menager for flights, as part of a collage course.
+🔭 I’m currently working on Ticket manager for flights, as part of a collage course.
 
 🌱 I’m currently learning Java Spring!
 
