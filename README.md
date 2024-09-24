@@ -14,7 +14,7 @@
   <!-- Streak Stats -->
   <img class="img" src="http://github-readme-streak-stats.herokuapp.com?user=JosipKis&theme=aura" style="width: 100%; max-width: 500px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);" />
   <hr>
-  <img src="https://github-readme-stats-josipkis-projects.vercel.app//api/top-langs/?username=JosipKis&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&theme=aura" alt="Top Languages" style="width: 100%; max-width: 450px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);"/>
+  <img src="https://github-readme-stats-josipkis-projects.vercel.app//api/top-langs/?username=JosipKis&role=owner,collaborator&size_weight=0.5&count_weight=0.5&layout=compact&langs_count=8&theme=aura" alt="Top Languages" style="width: 100%; max-width: 450px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);"/>
 
 </div>
 
