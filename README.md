@@ -2,9 +2,11 @@
 
 🧠 IT Student at Studij Informacijskih Tehnologija at University of Zadar (SIT UniZd)
 
-🔭 I’m currently working on a Password Manager, developed in Java Swing, for a client
+🔭 I’m currently waiting for college to start. 
 
 🌱 I’m currently learning Java Spring!
+
+🌱 I'm currently learning C#!
 
 💬 Ask me about Java ☕
 
