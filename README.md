@@ -2,7 +2,7 @@
 
 🧠 IT Student at Studij Informacijskih Tehnologija at University of Zadar (SIT UniZd)
 
-🔭 I’m currently waiting for college to start. 
+🔭 I’m currently working on a employee managment app for a client. 
 
 🌱 I’m currently learning Java Spring!
 
