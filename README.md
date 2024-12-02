@@ -6,8 +6,6 @@
 
 🌱 I’m currently learning Java Spring!
 
-🌱 I'm currently learning C#!
-
 💬 Ask me about Java ☕
 
 <br>
